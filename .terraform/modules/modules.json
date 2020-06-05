@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"vpc","Source":".//Modules/Networking","Dir":"Modules/Networking"},{"Key":"vpc.subnet_addrs","Source":"hashicorp/subnets/cidr","Version":"1.0.0","Dir":".terraform/modules/vpc.subnet_addrs/terraform-cidr-subnets-1.0.0"}]}
